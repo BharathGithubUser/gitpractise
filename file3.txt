@@ -2,4 +2,5 @@ var x = function() {
 	var a = 1;
 	console.log(a)
 }
+//calling the function as:
 x();
