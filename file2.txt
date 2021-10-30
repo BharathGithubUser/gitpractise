@@ -3,4 +3,5 @@ function normalFunction() {
 }
 //Calling the function:
 normalFunction()
-Done some changes in update 2 on 30 oct 2021
+Additionalchanges
+Done some changes in update 2 on 30 oct 2021. 
