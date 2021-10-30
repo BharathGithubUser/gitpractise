@@ -3,6 +3,6 @@ function normalFunction() {
 }
 //Calling the function:
 normalFunction()
-Additionalchanges
-Done some changes in update 2 on 30 oct 2021. 
-doing further changes now
+Done some changes in update 2 on 30 oct 2021
+still done additional changes
+Adding some other changes as well
