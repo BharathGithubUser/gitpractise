@@ -1,5 +1,6 @@
 function normalFunction() {
 	console.log("normalFunction");
-	//Added this line after creating feature/update1_1 from feature/update1
 }
-doing some chages in file2
+//Calling the function:
+normalFunction()
+Done some changes in update 2 on 30 oct 2021
