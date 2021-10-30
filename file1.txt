@@ -1,3 +1,4 @@
 function *gen() {
 	console.log("generator");
 }
+//The above function is generator function
